@@ -1,0 +1,28 @@
+{
+  "books": [
+    {
+      "title": "convite a platao",
+      "id": 1
+    },
+    {
+      "title": "lusiadas",
+      "id": 2
+    },
+    {
+      "title": "rapublica",
+      "id": 3
+    },
+    {
+      "title": "aristoteles para todos",
+      "id": 4
+    },
+    {
+      "title": "suma teologica",
+      "id": 5
+    },
+    {
+      "title": "confissoes",
+      "id": 6
+    }
+  ]
+}
