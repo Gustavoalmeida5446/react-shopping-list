@@ -1,28 +1,20 @@
 {
   "books": [
     {
-      "title": "convite a platao",
+      "title": "ovo",
       "id": 1
     },
     {
-      "title": "lusiadas",
+      "title": "carne",
       "id": 2
     },
     {
-      "title": "rapublica",
+      "title": "leite",
       "id": 3
     },
     {
-      "title": "aristoteles para todos",
+      "title": "coxa de frango",
       "id": 4
-    },
-    {
-      "title": "suma teologica",
-      "id": 5
-    },
-    {
-      "title": "confissoes",
-      "id": 6
     }
   ]
 }
